@@ -4,7 +4,7 @@ import pyshorteners
 bot = Client('gplink bot',
              api_id=1212909,
              api_hash='759e1450bdc5857ac302f565b5b6e639',
-             bot_token='1760586958:AAECMGgx4gMK74vCnTZuE5b_Dc4Wn6wJyfs',
+             bot_token='1742946338:AAFs2bxpa7wE1ilbsjr0LW7Bnf1V1C8an8w',
              workers=50,
              sleep_threshold=10)
 
